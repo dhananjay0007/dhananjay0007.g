@@ -1,0 +1,92 @@
+{
+  "configVersion": 1,
+  "timestamp": 1564342590603,
+  "index": "/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "urls": [
+        "/favicon.ico",
+        "/index.html",
+        "/main-es2015.d320252ccf18ce4c2951.js",
+        "/main-es5.1d744be3d46b11b7a67c.js",
+        "/manifest.json",
+        "/polyfills-es2015.7a264d14fd7126ba8db0.js",
+        "/polyfills-es5.11ea334fcc3899f33d00.js",
+        "/runtime-es2015.703a23e48ad83c851e49.js",
+        "/runtime-es5.465c2333d355155ec5f3.js",
+        "/styles.df2b9a3e279e1650cd06.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "urls": [
+        "/assets/ngx-rocket-logo.png",
+        "/assets/ngx-rocket-logo@192 .png",
+        "/fa-brands-400.03783c5172ee1ad128c5.eot",
+        "/fa-brands-400.7559b3774a0625e8ca6c.woff2",
+        "/fa-brands-400.ed2b8bf117160466ba62.ttf",
+        "/fa-brands-400.fe9d62e0d16a333a20e6.woff",
+        "/fa-regular-400.59215032a4397507b80e.ttf",
+        "/fa-regular-400.e07d9e40b26048d9abe2.woff2",
+        "/fa-regular-400.e5770f9863963fb57694.woff",
+        "/fa-regular-400.fc9c63c8224fb341fc93.eot",
+        "/fa-solid-900.4bced7c4c0d61d4f9886.woff",
+        "/fa-solid-900.acf50f59802f20d8b452.ttf",
+        "/fa-solid-900.b5cf8ae26748570d8fb9.woff2",
+        "/fa-solid-900.ef3df98419d143d9617f.eot"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "/assets/ngx-rocket-logo.png": "0d800678b62618d13bb4014866058506b710ffae",
+    "/assets/ngx-rocket-logo@192 .png": "0d800678b62618d13bb4014866058506b710ffae",
+    "/fa-brands-400.03783c5172ee1ad128c5.eot": "cad3317342dbe39e333569633f1c103e1d138722",
+    "/fa-brands-400.7559b3774a0625e8ca6c.woff2": "a403af3337e6207d144b998b9c3bed439af562a9",
+    "/fa-brands-400.ed2b8bf117160466ba62.ttf": "07d3f17fa86ddf58c8442ec3bacbcee90fe42bdc",
+    "/fa-brands-400.fe9d62e0d16a333a20e6.woff": "4cb087035ebd3afa0c588f129d1549e532c06d18",
+    "/fa-regular-400.59215032a4397507b80e.ttf": "2833f486c98034276a8cf663f639bd985f360bd0",
+    "/fa-regular-400.e07d9e40b26048d9abe2.woff2": "c744217caa82b3245cffa2714aaf2ec9f749614d",
+    "/fa-regular-400.e5770f9863963fb57694.woff": "82875b3e31f4a2a8b9ed4e4b383e61ce3737267f",
+    "/fa-regular-400.fc9c63c8224fb341fc93.eot": "38b05dab032a14ed904c36877795be97417cb3cf",
+    "/fa-solid-900.4bced7c4c0d61d4f9886.woff": "0f6fcbf47ded1a1c6ace0f67383d512b6a053dad",
+    "/fa-solid-900.acf50f59802f20d8b452.ttf": "b7f728ec591ed9dd9028ed3deb6a536d0038c8d6",
+    "/fa-solid-900.b5cf8ae26748570d8fb9.woff2": "07bed153d47f9129a944ee54dd72952deed074c8",
+    "/fa-solid-900.ef3df98419d143d9617f.eot": "acee4f1e361ccf995121f381b95424b6ec6b29c0",
+    "/favicon.ico": "b65083d46bbf63692d5d2cdd69622e6d7ecae317",
+    "/index.html": "a9b51b03be45cd513170c3c18a8d1655bae4192d",
+    "/main-es2015.d320252ccf18ce4c2951.js": "4bb89860b3e71c36e97aaddef2d4b25c3f9d2a35",
+    "/main-es5.1d744be3d46b11b7a67c.js": "a557f7f3773be273c0dc2784915ff45735b96df5",
+    "/manifest.json": "8836ca64c6a037f3d72f3419461a6491f932721e",
+    "/polyfills-es2015.7a264d14fd7126ba8db0.js": "058203dab4ba87056d6976029ba60fa42e6f75b9",
+    "/polyfills-es5.11ea334fcc3899f33d00.js": "0fe2bd040def66755bca6df6e3a92df7125f4800",
+    "/runtime-es2015.703a23e48ad83c851e49.js": "b62956c2192bfe5516d6374e753773901ed50ec5",
+    "/runtime-es5.465c2333d355155ec5f3.js": "b62956c2192bfe5516d6374e753773901ed50ec5",
+    "/styles.df2b9a3e279e1650cd06.css": "3172f3e507797bc10bee92bc94b8f9c6eb501f9d"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ]
+}
